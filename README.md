@@ -5,7 +5,7 @@ I have keen interest in CyberSecurity and AI; and yes I love travelling too.
 [Check Out My Portfolio Website](https://www.josephadediji.com). 
 
 - 🔭 I’m currently working on [InternPlug](https://www.internplug.com) which is an Internship Recruitment Platform
-- 🌱 I’m currently learning Python, Django & Machine Learning.
+- 🌱 I’m currently learning and improving on Python, Django & Machine Learning.
 - 👯 I’m looking to collaborate on Interesting Projects that will make people and communities better. 
 - 📫 How to reach me: hello[@]josephadediji.com or @Josylad on Twitter, FB and IG
 - ⚡ Fun fact: ...loading....

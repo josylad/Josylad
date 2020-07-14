@@ -1,7 +1,8 @@
 ### Hi there 👋
 **I am Joseph Adediji** I am fullstack Software Developer with specialty in Python-Django. 
 I have keen interest in CyberSecurity and AI; and yes I love travelling too. 
-]Check Out My Portfolio Website](https://www.josephadediji.com). 
+
+[Check Out My Portfolio Website](https://www.josephadediji.com). 
 
 - 🔭 I’m currently working on [InternPlug](https://www.internplug.com) which is an Internship Recruitment Platform
 - 🌱 I’m currently learning Python, Django & Machine Learning.

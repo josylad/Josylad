@@ -1,5 +1,5 @@
 ### Hi there 👋
-* I am Joseph Adediji 
+**I am Joseph Adediji**
 
 - 🔭 I’m currently working on [InternPlug](https://www.internplug.com) which is an Internship Recruitment Platform
 - 🌱 I’m currently learning Python, Django & Machine Learning.

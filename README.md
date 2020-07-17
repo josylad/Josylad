@@ -9,7 +9,7 @@
 - 📝 I regulary write articles on [https://medium.com/@josylad](https://medium.com/@josylad) 
 - 💬 Ask me about **Python, Django, Bootstrap**
 - 👯 I’m looking to collaborate on Interesting Projects that will make people and communities better. 
-- 📫 How to reach me: hello [@] josephadediji.com or @Josylad on Twitter, FB and IG
+- 📫 How to reach me: **hello [@] josephadediji.com**
 - ⚡ Fun fact: ...loading....
 
 <p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=josylad&show_icons=true" alt="josylad" /> </p>

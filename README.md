@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Adediji </h1>
 <h3 align="center">Fullstack Software Developer with specialty in Python-Django. <br/> I have keen interest in CyberSecurity & AI; and yes, I love travelling too.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josylad" alt="josylad" /> </p> 
 
 [Check Out My Portfolio Website](https://www.josephadediji.com). 
 

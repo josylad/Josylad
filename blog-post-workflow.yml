@@ -10,5 +10,6 @@ jobs:
             - uses: actions / checkout@v2
             - uses: gautamkrishnar / blog - post - workflow@master
               with: 
-                max_post_count: "4",
-                feed_list: "https://medium.com/feed/@josylad"
+                commit_message: "Updated readme with the latest Blog data"
+                max_post_count: "5",
+                feed_list: "https://josylad.hashnode.dev/rss.xml"

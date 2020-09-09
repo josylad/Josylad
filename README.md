@@ -38,6 +38,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 📝 Check out my latest articles!
-<!-- BLOG:START -->
-
-<!-- BLOG:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

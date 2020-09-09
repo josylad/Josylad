@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [InternPlug](https://www.internplug.com) which is an Internship Recruitment Platform
 - 🌱 I’m currently learning and improving on Python, Django & Machine Learning. 
 - 👨‍💻 All of my projects are available at [https://github.com/josylad](https://github.com/josylad)
-- 📝 I usually write articles on [https://medium.com/@josylad](https://medium.com/@josylad) 
+- 📝 I usually write articles on [https://josylad.hashnode.dev/](https://josylad.hashnode.dev) 
 - 💬 Ask me about **Python, Django, Bootstrap**
 - 👯 I’m looking to collaborate on Interesting Projects that will make people and communities better. 
 - 📫 How to reach me: **hello [@] josephadediji.com**

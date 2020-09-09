@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📝 Check out my latest articles!
+<!-- BLOG:START -->
+
+<!-- BLOG:END -->

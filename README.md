@@ -19,9 +19,8 @@
 ------
 
 ### 📝 Check out my latest articles!
- <!-- BLOG::START -->
- <!-- BLOG::END -->
-
+<!-- <!-- BLOG::START -->
+<!-- <!-- BLOG::END -->
 ------
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josylad&show_icons=true" alt="josylad" /></p>

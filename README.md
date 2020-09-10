@@ -20,6 +20,10 @@
 
 ### 📝 Check out my latest articles!
 <!-- BLOG-POST-LIST:START -->
+- [SEO for Developers: Meta SEO](https://josylad.hashnode.dev/seo-for-developers-meta-seo)
+- [How to Install PostgreSQL on Ubuntu, Linux & Mac](https://josylad.hashnode.dev/how-to-install-postgresql-on-ubuntu-linux-mac)
+- [How to Create Django SEO Friendly URL using Slugs/SlugField](https://josylad.hashnode.dev/how-to-create-django-seo-friendly-url-using-slugsslugfield)
+- [Are Coding Bootcamps worth it?](https://josylad.hashnode.dev/are-coding-bootcamps-worth-it)
 <!-- BLOG-POST-LIST:END -->
 
 ------

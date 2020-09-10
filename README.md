@@ -19,8 +19,8 @@
 ------
 
 ### 📝 Check out my latest articles!
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ <!-- BLOG::START -->
+ <!-- BLOG::END -->
 
 ------
 

@@ -4,7 +4,7 @@
 - [Check Out My Portfolio Website](https://www.josephadediji.com). 
 
 - 🔭 I’m currently working on [InternPlug](https://www.internplug.com) which is an Internship Recruitment Platform
-- 🌱 I’m currently learning and improving on Python, Django & Machine Learning. 
+- 🌱 I’m currently learning and improving on Python, Django, & Blockchain. 
 - 👨‍💻 All of my projects are available at [https://github.com/josylad](https://github.com/josylad)
 - 📝 I usually write articles on [https://josylad.hashnode.dev/](https://josylad.hashnode.dev) 
 - 💬 Ask me about **Python, Django, Bootstrap**

@@ -3,7 +3,7 @@
 
 - [Check Out My Portfolio Website](https://www.josephadediji.com). 
 
-- 🔭 I’m currently working on [InternPlug](https://www.internplug.com) which is an Internship Recruitment Platform
+- 🔭 I’m currently working on [Lopeer](https://www.lopeer.com) which is a Blockchain Fintech Platform for Africa & Emerging Markets.
 - 🌱 I’m currently learning and improving on Python, Django, Data Analysis & Blockchain Tech. 
 - 👨‍💻 All of my projects are available at [https://github.com/josylad](https://github.com/josylad)
 - 📝 I usually write articles on [https://josylad.hashnode.dev/](https://josylad.hashnode.dev) 

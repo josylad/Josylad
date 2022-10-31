@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning and improving on Python, Django, Data Analysis & Blockchain Tech. 
 - 👨‍💻 All of my projects are available at [https://github.com/josylad](https://github.com/josylad)
 - 📝 I usually write articles on [https://josylad.hashnode.dev/](https://josylad.hashnode.dev) 
-- 💬 Ask me about **Python, Django, Bootstrap, TG Bots**
+- 💬 Ask me about **Python, Django, Bootstrap, Blockchain, Telegram Bots**
 - 👯 I’m looking to collaborate on Interesting Projects that will make people and communities better. 
 - 📫 How to reach me: **hello [@] josephadediji.com**
 - ⚡ Fun fact: ...loading....

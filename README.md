@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Adediji </h1>
-<h3 align="center">Software Developer with specialty in Python, Django, Telegram Bots. <br/> I have a keen interest in Blockchain & FinTech; and yes, I love travelling too.</h3>
+<h3 align="center">Software Developer with speciality in Python, Django, and Telegram Bots. <br/> I have a keen interest in Blockchain & FinTech; and yes, I love travelling too.</h3>
 
 - [Check Out My Portfolio Website](https://www.josephadediji.com). 
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning and improving on Python, Django, Data Analysis & Blockchain Tech. 
 - 👨‍💻 All of my projects are available at [https://github.com/josylad](https://github.com/josylad)
 - 📝 I usually write articles on [https://josylad.hashnode.dev/](https://josylad.hashnode.dev) 
-- 💬 Ask me about **Python, Django, Bootstrap, Blockchain, Telegram Bots**
+- 💬 Ask me about **Python, Django, Bootstrap, Linux, and Telegram Bots**
 - 👯 I’m looking to collaborate on Interesting Projects that will make people and communities better. 
 - 📫 How to reach me: **hello [@] josephadediji.com**
 - ⚡ Fun fact: ...loading....

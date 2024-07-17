@@ -5,7 +5,7 @@
 
 - 🔭 Projects:
     - [InternPlug](https://www.internplug.com): a dedicated internship search and recruitment portal.
-    - [BestOfferAI](https://www.bestofferai.com): an AI helps you to compare prices, find the best deals, and save money.
+    - [BestOfferAI](https://www.bestofferai.com): an AI that helps you to compare prices, find the best deals, and save money.
 - 🌱 I’m currently learning and improving on Python, Django, Frappe, LLM, & Blockchain Tech. 
 - 👨‍💻 All of my projects are available at [https://github.com/josylad](https://github.com/josylad)
 - 📝 I usually write articles on [https://josylad.hashnode.dev/](https://josylad.hashnode.dev) 

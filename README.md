@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph Adediji </h1>
 <h3 align="center">Software Developer with a specialty in Python, Django, AI/LLM, and Bots. <br/> I have a keen interest in Automation & AI; and yes, I love travelling too.</h3>
 
-#- [Check Out My Portfolio Website](https://www.josephadediji.com). 
+<!-- - [Check Out My Portfolio Website](https://www.josephadediji.com). -->
 
 - 🔭 Projects:
     - [InternPlug](https://www.internplug.com): a dedicated internship search and recruitment portal.

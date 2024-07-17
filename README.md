@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joseph Adediji </h1>
-<h3 align="center">Software Developer with speciality in Python, Django, and Telegram Bots. <br/> I have a keen interest in Blockchain & FinTech; and yes, I love travelling too.</h3>
+<h3 align="center">Software Developer with a specialty in Python, Django, AI/LLM, and Bots. <br/> I have a keen interest in Blockchain & FinTech; and yes, I love travelling too.</h3>
 
 - [Check Out My Portfolio Website](https://www.josephadediji.com). 
 
-- 🔭 I’m currently working on [InternPlug](https://www.internplug.com) Which is a dedicated internship search and recruitment portal.
-- 🌱 I’m currently learning and improving on Python, Django, Data Analysis & Blockchain Tech. 
+- 🔭 Projects:
+    - [InternPlug](https://www.internplug.com): a dedicated internship search and recruitment portal.
+    - [BestOfferAI](https://www.bestofferai.com): an AI helps you to compare prices, find the best deals, and save money.
+- 🌱 I’m currently learning and improving on Python, Django, Frappe, LLM, & Blockchain Tech. 
 - 👨‍💻 All of my projects are available at [https://github.com/josylad](https://github.com/josylad)
 - 📝 I usually write articles on [https://josylad.hashnode.dev/](https://josylad.hashnode.dev) 
 - 💬 Ask me about **Python, Django, Bootstrap, Linux, and Telegram Bots**

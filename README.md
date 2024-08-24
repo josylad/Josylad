@@ -38,7 +38,7 @@
 <a href="https://dev.to/josylad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="josylad" height="30" width="30" /></a>
 <a href="https://twitter.com/josylad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="josylad" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/josylad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="josylad" height="30" width="30" /></a>
-<a href="https://josylad.hashnode.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@josylad" height="30" width="30" /></a>
+<a href="https://medium.com/tech-insights" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@josylad" height="30" width="30" /></a>
 </p>
 <!--
 **josylad/Josylad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

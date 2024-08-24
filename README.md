@@ -6,12 +6,12 @@
 - 🔭 Projects:
     - [InternPlug](https://www.internplug.com): a dedicated internship search and recruitment portal.
     - [BestOfferAI](https://www.bestofferai.com): an AI that helps you to compare prices, find the best deals, and save money.
-- 🌱 I’m currently learning and improving on Python, Django, Frappe, LLM, & Blockchain Tech. 
+- 🌱 I’m currently learning and improving on Python, Django, Frappe, LLM, & AI Tech. 
 - 👨‍💻 All of my projects are available at [https://github.com/josylad](https://github.com/josylad)
 - 📝 I usually write articles on [https://josylad.hashnode.dev/](https://josylad.hashnode.dev) 
-- 💬 Ask me about **Python, Django, Bootstrap, Linux, and Telegram Bots**
+- 💬 Ask me about **Python, Django, Bootstrap, Linux, AI and Telegram Bots**
 - 👯 I’m looking to collaborate on Interesting Projects that will make people and communities better. 
-- 📫 How to reach me: **hello [@] josephadediji.com**
+- 📫 How to reach me: **josephadediji [@] gmail.com**
 - ⚡ Fun fact: ...loading....
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>

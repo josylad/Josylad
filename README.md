@@ -8,7 +8,7 @@
     - [BestOfferAI](https://www.bestofferai.com): an AI that helps you to compare prices, find the best deals, and save money.
 - 🌱 I’m currently learning and improving on Python, Django, Frappe, LLM, & AI Tech. 
 - 👨‍💻 All of my projects are available at [https://github.com/josylad](https://github.com/josylad)
-- 📝 I usually write articles on [https://medium.com/tech-insights]((https://medium.com/tech-insights)) 
+- 📝 I usually write articles on [https://medium.com/tech-insights](https://medium.com/tech-insights)
 - 💬 Ask me about **Python, Django, Bootstrap, Linux, AI and Telegram Bots**
 - 👯 I’m looking to collaborate on Interesting Projects that will make people and communities better. 
 - 📫 How to reach me: **josephadediji [@] gmail.com**
